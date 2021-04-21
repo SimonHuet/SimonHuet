@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">Fullstack web developer from France</h3>
-<h3 align="center">Engineering in Computer Science @Epsi (To be graduated in 2021)</h3>
+<h3 align="center">Engineering student in Computer Science @Epsi (To be graduated in 2021)</h3>
 <p align="left"> 
 
 <div align="center">
