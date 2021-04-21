@@ -16,7 +16,7 @@
 
 <h3> 🕵🏻‍♂️ Some facts  about me </h3>
 
-- ⛴ I’m currently working on the **[Trade Easy]([https://www.trade-easy.fr)** project [@Pepperbay](https://pepperbay.fr) with Symfony, ReactJs and PostgreSQL !
+- ⛴ I’m currently working on the **[Trade Easy](https://www.trade-easy.fr)** project [@Pepperbay](https://pepperbay.fr) with Symfony, ReactJs and PostgreSQL !
 - 🌱   I’m always learning things about Full Stack Development.
 - 🔍 I’m looking to collaborate on Web Development Projects.
 - 👀 Curious about computer science and customer needs.
@@ -35,11 +35,11 @@
 
 <table align="center">
   <tr align="center">
-    <td width="50%"><b>Languages<b></td>
-    <td width="50%"><b>Tools<b></td>
+    <td width="60%"><b>Languages<b></td>
+    <td width="60%"><b>Tools<b></td>
   </tr>
   <tr align="center">
-    <td width="40%">
+    <td width="60%">
       <img align="center" alt="JS" height="26" src="https://img.icons8.com/color/48/000000/javascript.png"/>
       <img align="center" alt="React" height="26"src="https://img.icons8.com/color/48/000000/react-native.png"/>
       <img align="center" alt="PHP" height="26" src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
@@ -48,7 +48,7 @@
       <img align="center" alt="html" height="26" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
       <img align="center" alt="css" height="26" src="https://img.icons8.com/color/48/000000/css3.png"/>
     </td>
-    <td width=60%">
+    <td width="60%">
       <img align="center" alt="GIT" height="26" src="https://img.icons8.com/color/48/000000/git.png"/>
       <img align="center" alt="PostgreSQL" height="26" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
       <img align="center" alt="Docker" height="26" src="https://img.icons8.com/color/48/000000/docker.png"/>
@@ -63,17 +63,17 @@
 ## 🖥 Desktop environnment: 🛠
 <table align="center">
   <tr align="center">
-    <td width="50%"><b>Tools<b></td>
-    <td width="50%"><b>Distribution<b></td>
+    <td width="60%"><b>Tools<b></td>
+    <td width="60%"><b>Distribution<b></td>
   </tr>
   <tr align="center">
-    <td width="40%">
+    <td width="60%">
       <img align="center" alt="Vscode" height="26" src="./assets/tools/vscode.svg"/>
       <img align="center" alt="PhpStorm" height="26"src="./assets/tools/phpstorm.svg"/>
       <img align="center" alt="Slack" height="26" src="https://img.icons8.com/color/48/000000/slack-new.png"/> 
       <img align="center" alt="Docker" height="26" src="https://img.icons8.com/color/48/000000/docker.png"/>
     </td>
-    <td width=60%">
+    <td width="60%">
       <img align="center" alt="Linux" height="26"
       src="https://img.icons8.com/color/48/000000/linux.png"/>
       <img align="center" alt="Ubuntu" height="26" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
